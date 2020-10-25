@@ -6,5 +6,5 @@ Company wants to automate the loan eligibility process (real time) based on cust
 
 The dataset used will be available in this repository.This dataset is taken from analytics vidhya. 
 
-The dataset and its attribute have been deeply explored and the insights have also availabel in the python file. Different techniques have also been applied to fill the missing values. After preparing the data different classification models were deployed to find the best model and then the final prediction was made to find if the loan will be approved of not.
+The dataset and its attribute have been deeply explored and the insights have also available in the python file. Different techniques have also been applied to fill the missing values. After preparing the data different classification models were deployed to find the best model and then the final prediction was made to find if the loan will be approved of not.
 
